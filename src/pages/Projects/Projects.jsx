@@ -1,7 +1,7 @@
 function Projects() {
   return (
     <div>
-      <h1>ここはプロジェクトページですです</h1>
+      <h1>ここはプロジェクトページです</h1>
     </div>
   )
 }
