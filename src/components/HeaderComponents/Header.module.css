@@ -1,3 +1,23 @@
+:root {
+  --green: #198d8d;
+  --white: #ffffff;
+  --box-shadow: 0 8px 22px rgba(0, 0, 0, 0.2);
+}
+
 .root {
-  background-color: aqua;
+  box-shadow: var(--box-shadow);
+}
+
+.nav-brand{
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.nav-link{
+  color: var(--white) !important;
+  font-size: 16px;
+}
+
+.nav-link:hover{
+  color:var(--green) !important;
 }
