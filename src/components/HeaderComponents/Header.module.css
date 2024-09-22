@@ -8,16 +8,16 @@
   box-shadow: var(--box-shadow);
 }
 
-.nav-brand{
+.nav-brand {
   font-size: 25px;
   font-weight: 500;
 }
 
-.nav-link{
+.nav-link {
   color: var(--white) !important;
   font-size: 16px;
 }
 
-.nav-link:hover{
-  color:var(--green) !important;
+.nav-link:hover {
+  color: var(--green) !important;
 }
