@@ -1,4 +1,25 @@
+:root {
+  --gray: #b4bec9;
+  --green: #159a9c;
+  --black: #002333;
+  --mint: #deefe7;
+  --white: #ffffff;
+  --box-shadow: 0 8px 22px rgba(0, 0, 0, 0.2);
+}
+
 .root {
-  background-color: black;
-  color: white;
+  background-color: var(--black);
+  color: var(--white);
+}
+
+.name {
+  font-size: 25px;
+}
+
+.sns {
+  display: flex;
+}
+
+.sns-link {
+  size: 16px;
 }
