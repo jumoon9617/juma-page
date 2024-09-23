@@ -1,15 +1,19 @@
 :root {
-  --green: #198d8d;
+  --gray: #B4BEC9;
+  --green: #159A9C;
+  --black: #002333;
+  --mint: #DEEFE7;
   --white: #ffffff;
   --box-shadow: 0 8px 22px rgba(0, 0, 0, 0.2);
 }
 
 .root {
   box-shadow: var(--box-shadow);
+  background-color: var(--black) !important;
 }
 
 .nav-brand {
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 500;
 }
 
