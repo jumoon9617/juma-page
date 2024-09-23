@@ -10,10 +10,11 @@
 .root {
   background-color: var(--black);
   color: var(--white);
+  padding: 16px 48px;
 }
 
 .name {
-  font-size: 25px;
+  font-size: 24px;
 }
 
 .sns {
@@ -21,5 +22,10 @@
 }
 
 .sns-link {
-  size: 16px;
+  font-size: 16px;
+}
+
+.copyrights {
+  /* display: flex;
+  justify-content: center; */
 }
