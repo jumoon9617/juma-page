@@ -10,6 +10,7 @@
 .root {
   box-shadow: var(--box-shadow);
   background-color: var(--black) !important;
+  padding: 0px 48px;
 }
 
 .nav-brand {

@@ -3,7 +3,7 @@ import styles from './Header.module.css'
 function Header() {
   return (
     <div className={styles.root}>
-      <nav className="navbar navbar-expand-lg border-bottom border-bottom-dark py-3 px-5" data-bs-theme="dark">
+      <nav className="navbar navbar-expand-lg border-bottom border-bottom-dark" data-bs-theme="dark">
         <div className="container-fluid pl-5">
           <a href="/" className="navbar-brand">
             <div className={styles['nav-brand']}>kaz</div>
