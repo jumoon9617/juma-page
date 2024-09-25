@@ -4,7 +4,7 @@ function Header() {
   return (
     <div className={styles.root}>
       <nav className="navbar navbar-expand-lg border-bottom border-bottom-dark" data-bs-theme="dark">
-        <div className="container-fluid pl-5">
+        <div className="container-fluid">
           <a href="/" className="navbar-brand">
             <div className={styles['nav-brand']}>kaz</div>
           </a>
