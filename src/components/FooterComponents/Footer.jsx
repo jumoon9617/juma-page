@@ -14,10 +14,10 @@ function Footer() {
         <div className={styles.category}>
           <div className={styles.title}>Memory</div>
           <div className={styles.content}>
-            <a href='/blogs'>Blogs</a>
+            <a href="/blogs">Blogs</a>
           </div>
           <div className={styles.content}>
-            <a href='/projects'>Projects</a>
+            <a href="/projects">Projects</a>
           </div>
         </div>
         <div className={styles.category}>
